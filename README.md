@@ -40,4 +40,6 @@ Part 15 - [Deploy Metric Server](15.Deploy-Metric-Server.md)
 
 Part 16 - [Deploy Dashboard](16.Dash-Board.md)
 
+Part 17 - [Dynamic iSCSI Volume Provisioniner](17.Dynamic-iSCSI-Volume-Provisioner.md)
+
 Note: Until unless specified , all command should be executed from `lb-01`
