@@ -39,3 +39,5 @@ Part 14 - [Test LoadBalancer](14.Test-Loadbalancer-type.md)
 Part 15 - [Deploy Metric Server](15.Deploy-Metric-Server.md)
 
 Part 16 - [Deploy Dashboard](16.Dash-Board.md)
+
+Note: Until unless specified , all command should be executed from `lb-01`
