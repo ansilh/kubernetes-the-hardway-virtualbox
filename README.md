@@ -1,5 +1,5 @@
 # kubernetes-the-hardway-virtualbox
-Setup a kubernetes cluster in VirtualBox for learning
+Setup a kubernetes cluster in VirtualBox
 
 This guide will give an overall idea on how each components works in kubernetes.
 
