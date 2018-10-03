@@ -3,8 +3,8 @@ Setup a kubernetes cluster in VirtualBox for learning
 
 This guide will give an overall idea on how each components works in kubernetes.
 
-#### Have Fun..!
-
+#### Cluster overview
+![Overview](https://raw.githubusercontent.com/ansilh/kubernetes-the-hardway-virtualbox/master/images/overview.PNG)
 
 ###### Disclaimer: This is a derivative work of [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) by Kelsey Hightower and all licencing will apply as same as original document
 
