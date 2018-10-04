@@ -42,4 +42,6 @@ Part 16 - [Deploy Dashboard](16.Dash-Board.md)
 
 Part 17 - [Dynamic iSCSI Volume Provisioniner](17.Dynamic-iSCSI-Volume-Provisioner.md)
 
+Part 18 - [Ingress Controller using NIGIX](18.Ingress-Controller-using-NGINX.md)
+
 Note: Until unless specified , all command should be executed from `lb-01`
